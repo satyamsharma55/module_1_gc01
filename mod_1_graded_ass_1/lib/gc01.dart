@@ -6,7 +6,8 @@ class GC01 extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: "Flutter Web", // This is the title of the Flutter web app
+      title:
+          "Flutter Web Aplication", // This is the title of the Flutter web app
       home: Scaffold(
         appBar: AppBar(
           title: const Center(
